@@ -1,0 +1,152 @@
+{
+  "Axe": [
+    {"id": "berserkers_call", "name": "Berserker's Call", "desc": "Притягивает врагов и заставляет их атаковать Axe.", "type": "active"},
+    {"id": "counter_helix", "name": "Counter Helix", "desc": "Автоматически наносит урон вокруг при ударе.", "type": "passive"},
+    {"id": "culling_blade", "name": "Culling Blade", "desc": "Мгновенно добивает цель с низким здоровьем.", "type": "ultimate"}
+  ],
+  "Anti-Mage": [
+    {"id": "mana_break", "name": "Mana Break", "desc": "Сжигает ману при атаке.", "type": "passive"},
+    {"id": "blink", "name": "Blink", "desc": "Телепортируется на короткое расстояние.", "type": "active"},
+    {"id": "mana_void", "name": "Mana Void", "desc": "Наносит урон за потраченную ману цели.", "type": "ultimate"}
+  ],
+  "Pudge": [
+    {"id": "meat_hook", "name": "Meat Hook", "desc": "Притягивает цель на большое расстояние.", "type": "active"},
+    {"id": "rot", "name": "Rot", "desc": "Наносит урон вокруг Pudge и замедляет.", "type": "active"},
+    {"id": "dismember", "name": "Dismember", "desc": "Закусывает цель, нанося урон и удерживая её.", "type": "ultimate"}
+  ],
+  "Invoker": [
+    {"id": "cold_snap", "name": "Cold Snap", "desc": "Оглушает цель при многократном срабатывании.", "type": "active"},
+    {"id": "emp", "name": "EMP", "desc": "Отнимает ману в области и наносит урон.", "type": "active"},
+    {"id": "sun_strike", "name": "Sun Strike", "desc": "Глобальный точечный магический урон.", "type": "active"}
+  ],
+  "Crystal Maiden": [
+    {"id": "crystal_nova", "name": "Crystal Nova", "desc": "Магический урон и замедление по области.", "type": "active"},
+    {"id": "frostbite", "name": "Frostbite", "desc": "Блокирует врага и наносит урон со временем.", "type": "active"},
+    {"id": "freezing_field", "name": "Freezing Field", "desc": "Массовый урон вокруг героя.", "type": "ultimate"}
+  ],
+  "Juggernaut": [
+    {"id": "blade_fury", "name": "Blade Fury", "desc": "Наносит магический урон вокруг, даёт иммунитет к контролю.", "type": "active"},
+    {"id": "healing_ward", "name": "Healing Ward", "desc": "Призывает тотем, лечащий союзников.", "type": "active"},
+    {"id": "omni_slash", "name": "Omni Slash", "desc": "Несколько быстрых ударов по вражеским героям.", "type": "ultimate"}
+  ],
+  "Mirana": [
+    {"id": "starfall", "name": "Starfall", "desc": "Массовый урон в небольшой области.", "type": "active"},
+    {"id": "sacred_arrow", "name": "Sacred Arrow", "desc": "Длинная стрела, оглушающая и наносящая урон.", "type": "active"},
+    {"id": "moonlight_shadow", "name": "Moonlight Shadow", "desc": "Дает невидимость союзникам на карте.", "type": "ultimate"}
+  ],
+  "Shadow Fiend": [
+    {"id": "shadowraze_near", "name": "Shadowraze (Near)", "desc": "Точечный магический урон рядом с героем.", "type": "active"},
+    {"id": "shadowraze_mid", "name": "Shadowraze (Mid)", "desc": "Точечный магический урон на средней дистанции.", "type": "active"},
+    {"id": "requiem", "name": "Requiem of Souls", "desc": "Мощное массовое умение, связанное с душами.", "type": "ultimate"}
+  ],
+  "Morphling": [
+    {"id": "waveform", "name": "Waveform", "desc": "Проходящая волна урона и перемещение.", "type": "active"},
+    {"id": "adaptive_strike", "name": "Adaptive Strike", "desc": "Урон и контроль в зависимости от атрибутов.", "type": "active"},
+    {"id": "replicate", "name": "Replicate", "desc": "Создаёт копию или телепортируется к ней.", "type": "ultimate"}
+  ],
+  "Phantom Lancer": [
+    {"id": "spirit_lance", "name": "Spirit Lance", "desc": "Создаёт иллюзию и наносит урон.", "type": "active"},
+    {"id": "doppelganger", "name": "Doppelganger", "desc": "Телепорт и создание иллюзий.", "type": "active"},
+    {"id": "juxtapose", "name": "Juxtapose", "desc": "Пассивное создание иллюзий при атаке.", "type": "passive"}
+  ],
+  "Puck": [
+    {"id": "illusory_orb", "name": "Illusory Orb", "desc": "Кинетический шар, к которому герой перемещается.", "type": "active"},
+    {"id": "waning_rift", "name": "Waning Rift", "desc": "Оглушает и наносит урон по области.", "type": "active"},
+    {"id": "dream_coil", "name": "Dream Coil", "desc": "Заковывает врагов в петлю, нанося урон при разрыве.", "type": "ultimate"}
+  ],
+  "Razor": [
+    {"id": "plasma_field", "name": "Plasma Field", "desc": "Волна урона вокруг Razor.", "type": "active"},
+    {"id": "static_link", "name": "Static Link", "desc": "Кража урона у цели.", "type": "active"},
+    {"id": "eye_of_the_storm", "name": "Eye of the Storm", "desc": "Статический шторм, бьющий врагов.", "type": "ultimate"}
+  ],
+  "Sand King": [
+    {"id": "burrowstrike", "name": "Burrowstrike", "desc": "Врывается под землю и оглушает.", "type": "active"},
+    {"id": "sand_storm", "name": "Sand Storm", "desc": "Невидимость и урон по времени.", "type": "active"},
+    {"id": "epicenter", "name": "Epicenter", "desc": "Мощные толчки по области.", "type": "ultimate"}
+  ],
+  "Storm Spirit": [
+    {"id": "static_remnant", "name": "Static Remnant", "desc": "Создаёт напоминание с уроном.", "type": "active"},
+    {"id": "electric_vortex", "name": "Electric Vortex", "desc": "Притягивает цель к Storm Spirit.", "type": "active"},
+    {"id": "ball_lightning", "name": "Ball Lightning", "desc": "Телепортируется по прямой, затрачивая ману.", "type": "ultimate"}
+  ],
+  "Sven": [
+    {"id": "storm_bolt", "name": "Storm Bolt", "desc": "Метает молот и оглушает цель.", "type": "active"},
+    {"id": "warcry", "name": "Warcry", "desc": "Даёт броню и скорость атаки союзникам.", "type": "active"},
+    {"id": "gods_strength", "name": "God's Strength", "desc": "Увеличивает силу и урон.", "type": "ultimate"}
+  ],
+  "Bristleback": [
+    {"id": "quill_spray", "name": "Quill Spray", "desc": "Выпускает шипы, наносящие урон вокруг.", "type": "active"},
+    {"id": "viscous_nasal_goo", "name": "Viscous Nasal Goo", "desc": "Снижает сопротивление врага и наносит урон.", "type": "active"},
+    {"id": "bristleback", "name": "Bristleback", "desc": "Пассивное уменьшение урона со спины.", "type": "passive"}
+  ],
+  "Broodmother": [
+    {"id": "spin_web", "name": "Spin Web", "desc": "Создаёт сеть, дающую бонусы и регенерацию.", "type": "active"},
+    {"id": "insatiable_hunger", "name": "Insatiable Hunger", "desc": "Увеличивает урон и вампиризм.", "type": "ultimate"}
+  ],
+  "Centaur": [
+    {"id": "hoof_stomp", "name": "Hoof Stomp", "desc": "Оглушение вокруг Centaur.", "type": "active"},
+    {"id": "double_edge", "name": "Double Edge", "desc": "Сильный удар по цели с откатом здоровья.", "type": "active"},
+    {"id": "stampede", "name": "Stampede", "desc": "Глобальное ускорение и урон при столкновении.", "type": "ultimate"}
+  ],
+  "Chaos Knight": [
+    {"id": "chaos_bolt", "name": "Chaos Bolt", "desc": "Случайный сильный удар и оглушение.", "type": "active"},
+    {"id": "reality_rift", "name": "Reality Rift", "desc": "Притягивает цель и наносит урон.", "type": "active"},
+    {"id": "phantasm", "name": "Phantasm", "desc": "Создаёт иллюзии героя.", "type": "ultimate"}
+  ],
+  "Clinkz": [
+    {"id": "searing_arrows", "name": "Searing Arrows", "desc": "Усиливает базовую атаку дополнительным уроном.", "type": "active"},
+    {"id": "skeleton_walk", "name": "Skeleton Walk", "desc": "Делает героя невидимым и ускоряет.", "type": "active"},
+    {"id": "death_pact", "name": "Death Pact", "desc": "Пожирает крипа ради здоровья и урона.", "type": "ultimate"}
+  ],
+  "Dark Seer": [
+    {"id": "ion_shell", "name": "Ion Shell", "desc": "Создаёт ауру урона вокруг цели.", "type": "active"},
+    {"id": "vacuum", "name": "Vacuum", "desc": "Собирает врагов в точку.", "type": "active"},
+    {"id": "wall_of_replica", "name": "Wall of Replica", "desc": "Создаёт стену, копирующую врагов.", "type": "ultimate"}
+  ],
+  "Dark Willow": [
+    {"id": "bramble_maze", "name": "Bramble Maze", "desc": "Создаёт лабиринт шипов, корнящий врагов.", "type": "active"},
+    {"id": "shadow_realm", "name": "Shadow Realm", "desc": "Делает героя невидимым и усиливает атаку.", "type": "active"},
+    {"id": "terrorize", "name": "Terrorize", "desc": "Пугает и отбрасывает врагов.", "type": "ultimate"}
+  ],
+  "Dazzle": [
+    {"id": "poison_touch", "name": "Poison Touch", "desc": "Замедляет и наносит урон со временем.", "type": "active"},
+    {"id": "shallow_grave", "name": "Shallow Grave", "desc": "Не даёт союзнику умереть в течение времени.", "type": "active"},
+    {"id": "bad_juju", "name": "Bad Juju", "desc": "Уменьшает кулдауны и даёт бонусы союзникам.", "type": "ultimate"}
+  ],
+  "Death Prophet": [
+    {"id": "crypt_swarm", "name": "Crypt Swarm", "desc": "Магический урон по линии.", "type": "active"},
+    {"id": "silence", "name": "Silence", "desc": "Массовая тишина для врагов.", "type": "active"},
+    {"id": "exorcism", "name": "Exorcism", "desc": "Призывает духов, наносящих урон при возвращении.", "type": "ultimate"}
+  ],
+  "Tinker": [
+    {"id": "laser", "name": "Laser", "desc": "Ослепляет и наносит магический урон.", "type": "active"},
+    {"id": "heat_seeking_missile", "name": "Heat-Seeking Missile", "desc": "Ракета, поражающая цель.", "type": "active"},
+    {"id": "rearm", "name": "Rearm", "desc": "Перезаряжает способности и предметы героя.", "type": "ultimate"}
+  ]
+  ,
+  "Zeus": [
+    {"id": "arc_lightning", "name": "Arc Lightning", "desc": "Отправляет молнию, наносящую урон по целям.", "type": "active"},
+    {"id": "lightning_bolt", "name": "Lightning Bolt", "desc": "Удар молнии по точечной цели с оглушением.", "type": "active"},
+    {"id": "thundergod_wrath", "name": "Thundergod's Wrath", "desc": "Глобальный урон по всем противникам-шаманы.", "type": "ultimate"}
+  ],
+  "Viper": [
+    {"id": "poison_attack", "name": "Poison Attack", "desc": "Наносит токсический урон при атаке.", "type": "passive"},
+    {"id": "nethertoxin", "name": "Nethertoxin", "desc": "Усиленный урон по цели с пониженным сопротивлением.", "type": "active"},
+    {"id": "viper_strike", "name": "Viper Strike", "desc": "Замедляет и наносит сильный урон цели.", "type": "ultimate"}
+  ],
+  "Vengeful Spirit": [
+    {"id": "magic_missile", "name": "Magic Missile", "desc": "Меткий снаряд, оглушающий цель.", "type": "active"},
+    {"id": "vengeance_aura", "name": "Vengeance Aura", "desc": "Увеличивает урон союзников при атаке.", "type": "passive"},
+    {"id": "nether_swap", "name": "Nether Swap", "desc": "Меняет местами союзника и врага.", "type": "ultimate"}
+  ],
+  "Drow Ranger": [
+    {"id": "frost_arrows", "name": "Frost Arrows", "desc": "Накладывает замедляющий эффект на атаки.", "type": "active"},
+    {"id": "gust", "name": "Gust", "desc": "Отталкивает и молчит врагов в конусе.", "type": "active"},
+    {"id": "marksmanship", "name": "Marksmanship", "desc": "Пассивное увеличение ловкости и шанса крита.", "type": "passive"}
+  ],
+  "Omniknight": [
+    {"id": "purification", "name": "Purification", "desc": "Исцеляет союзника и наносит урон врагам вокруг.", "type": "active"},
+    {"id": "repel", "name": "Repel", "desc": "Делает цель неуязвимой к магии (старый Nexus).", "type": "active"},
+    {"id": "guardian_angel", "name": "Guardian Angel", "desc": "Даёт непоколебимую защиту от физического урона союзникам.", "type": "ultimate"}
+  ]
+}
